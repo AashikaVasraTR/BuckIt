@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5E0A5D2D-ECD9-4E85-BF1F-4F81C3F664C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuckIt/profilePage.cs">
+    <Files>
+      <File FileName="BuckIt/Main.storyboard" />
+      <File FileName="BuckIt/ViewController.cs" Line="30" Column="67" />
+      <File FileName="BuckIt/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="BuckIt/registerPage.designer.cs" Line="1" Column="1" />
+      <File FileName="BuckIt/registerPage.cs" Line="27" Column="1" />
+      <File FileName="BuckIt/profilePage.designer.cs" Line="1" Column="1" />
+      <File FileName="BuckIt/profilePage.cs" Line="19" Column="1" />
+      <File FileName="BuckIt/Main.cs" Line="12" Column="1" />
+      <File FileName="BuckIt/similarInterestsPage.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuckIt" expanded="True">
+            <Node name="BuckIt" expanded="True">
+              <Node name="profilePage.cs" expanded="True" selected="True" />
+              <Node name="registerPage.cs" expanded="True" />
+              <Node name="similarInterestsPage.cs" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BuckIt PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CBED2DED-6CB9-47BE-B76D-349C5611AA4D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
